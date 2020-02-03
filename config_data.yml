@@ -1,6 +1,6 @@
 # These settings are used by the Python functions open_sdg_build() and
 # open_sdg_check(), from sdg-build.
-# test2
+# test 2
 
 # List of languages for translated builds.
 languages:
